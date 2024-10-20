@@ -1,0 +1,1 @@
+# S09-Foro-Calificado-Patron-Adapter
